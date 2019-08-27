@@ -16,7 +16,7 @@
 }
 
 header {
-    background-image: url(Layer_1.png);
+    background-image: url(images/Layer_1.png);
     width: 100%;
     height: 565px;
     background-size: cover;
@@ -27,7 +27,7 @@ header {
 }
 
 .header_top {
-    background-image: url(3-layers.png);
+    background-image: url(images/3-layers.png);
     width: 156px;
     height: 40px;
 }
@@ -61,7 +61,7 @@ ul {
 }
 
 .header_bottom {
-    background-image: url(overlay.png);
+    background-image: url(images/overlay.png);
     margin: 50px auto;
     background-size: cover;
     background-repeat: no-repeat;
@@ -100,7 +100,7 @@ span {
 }
 
 .phone {
-    background-image: url(5-layers.png);
+    background-image: url(images/5-layers.png);
     width: 224px;
     height: 324px;
     margin-top: -350px;
@@ -110,7 +110,7 @@ span {
 }
 
 .dots {
-    background-image: url(2-layers.png);
+    background-image: url(images/2-layers.png);
     width: 55px;
     height: 55px;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ span {
 }
 
 section1 {
-    background-image: url(Layer_23.png);
+    background-image: url(images/Layer_23.png);
     width: 100%;
     height: 300px;
     background-size: cover;
@@ -149,7 +149,7 @@ section1 {
 }
 
 .box1::before {
-    content: url(Layer_34.png);
+    content: url(images/Layer_34.png);
     width: 30px;
     height: 32px;
     margin-left: -40px;
@@ -161,7 +161,7 @@ section1 {
 }
 
 .box2::before {
-    content: url(Layer_35.png);
+    content: url(iamges/Layer_35.png);
     width: 30px;
     height: 32px;
     margin-left: -40px;
@@ -173,7 +173,7 @@ section1 {
 }
 
 .box3::before {
-    content: url(Layer_36.png);
+    content: url(images/Layer_36.png);
     width: 30px;
     height: 32px;
     margin-left: -40px;
@@ -211,7 +211,7 @@ h4:hover {
 }
 
 section2 {
-    background-image: url(Layer_2_copy_2.png);
+    background-image: url(images/Layer_2_copy_2.png);
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -235,7 +235,7 @@ section2 {
 }
 
 .dialog {
-    background-image: url(Layer_60.png);
+    background-image: url(images/Layer_60.png);
     width: 429px;
     height: 294px;
     background-repeat: no-repeat;
@@ -261,7 +261,7 @@ h5 {
 }
 
 .image {
-    background-image: url(Layer_82.png);
+    background-image: url(images/Layer_82.png);
     width: 50px;
     height: 50px;
     margin-left: -55px;
@@ -276,7 +276,7 @@ span4 {
 }
 
 .dots1 {
-    background-image: url(2-layers.png);
+    background-image: url(images/2-layers.png);
     width: 55px;
     height: 55px;
     background-repeat: no-repeat;
@@ -321,21 +321,21 @@ h6 {
 }
 
 .icons1 {
-    background-image: url(Layer_83.png);
+    background-image: url(images/Layer_83.png);
     width: 49px;
     height: 49px;
     margin-top: 5px;
 }
 
 .icons2 {
-    background-image: url(Layer_83_copy.png);
+    background-image: url(images/Layer_83_copy.png);
     width: 49px;
     height: 49px;
     margin-top: 5px;
 }
 
 .icons3 {
-    background-image: url(Layer_83_copy_2.png);
+    background-image: url(images/Layer_83_copy_2.png);
     width: 49px;
     height: 49px;
     margin-top: 5px;
@@ -369,7 +369,7 @@ p2 {
 }
 
 .line {
-    background-image: url(Layer_46_copy_3.png);
+    background-image: url(images/Layer_46_copy_3.png);
     width: 100%;
     background-repeat: repeat;
     height: 1px;
@@ -377,7 +377,7 @@ p2 {
 }
 
 .logos {
-    background-image: url(logos.png);
+    background-image: url(images/logos.png);
     width: 775px;
     height: 65px;
     margin-top: 15px;
@@ -385,7 +385,7 @@ p2 {
 }
 
 section3 {
-    background-image: url(Layer_37.png);
+    background-image: url(images/Layer_37.png);
     width: 100%;
     height: 400px;
     background-size: cover;
@@ -477,7 +477,7 @@ p6 {
 
 footer {
     margin-top: -50px;
-    background-image: url(bg_copy.png);
+    background-image: url(images/bg_copy.png);
     width: 100%;
     height: 100px;
 }
@@ -986,7 +986,7 @@ p8 {
     }
 
     .logos {
-        background-image: url(logos1.png);
+        background-image: url(images/logos1.png);
         width: 345px;
         height: 154px;
         margin-top: 15px;
@@ -1091,7 +1091,7 @@ p8 {
     }
 
     .header_top {
-        background-image: url(3-layers.png);
+        background-image: url(images/3-layers.png);
         width: 151px;
         height: 28px;
         background-repeat: no-repeat;
@@ -1355,7 +1355,7 @@ p8 {
     }
 
     .line {
-        background-image: url(Layer_46_copy_3.png);
+        background-image: url(images/Layer_46_copy_3.png);
         margin-left: 1px;
         width: 320px;
         height: 1px;
@@ -1363,7 +1363,7 @@ p8 {
     }
 
     .logos {
-        background-image: url(3-layers_1.png);
+        background-image: url(images/3-layers_1.png);
         width: 237px;
         height: 294px;
         margin-top: 25px;
